@@ -1,6 +1,7 @@
 Agente de CV — Iván Jesús Lemus Aguilar
 Reto IA Banorte · Inteligencia Artificial e Innovación
-Por qué existe este agente
+
+¿Por qué existe este agente?
 
 Cuando recibí la invitación al reto, supe que iba a ser un desafío real. Quizá no soy el candidato más experto técnicamente, pero le pongo empeño a las cosas — y este agente es prueba de eso.
 
