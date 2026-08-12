@@ -69,24 +69,27 @@
       "ChromaDB"
     ],
     "exploratory": [
-      "GCP",
-      "Gemini API",
-      "FastAPI",
-      "Agentes de IA"
-    ]
+  "GCP",
+  "Gemini API",
+  "FastAPI",
+  "Agentes de IA",
+  "Docker",
+  "Render",
+  "Open Responses API"
+]
   },
   "projects": [
-    {
-      "name": "Prototipo RAG con Gemini",
-      "description": "RAG sobre documentos de política de crédito usando Gemini, ChromaDB y LangChain en Google Colab",
-      "tech": ["Gemini", "ChromaDB", "LangChain", "Python"]
-    },
-    {
-      "name": "Agente de CV - Reto Banorte",
-      "description": "Agente conversacional desplegado con FastAPI y Gemini, compatible con Open Responses API",
-      "tech": ["FastAPI", "Gemini", "Python", "Railway"]
-    }
-  ],
+  {
+    "name": "Prototipo RAG con Gemini",
+    "description": "Sistema RAG sobre documentos de política usando Gemini, ChromaDB y LangChain en Google Colab. Desarrollado como ejercicio técnico para cerrar brecha en AI engineering.",
+    "tech": ["Gemini", "ChromaDB", "LangChain", "Python", "Google Colab"]
+  },
+  {
+    "name": "Agente de CV - Reto Banorte",
+    "description": "Agente conversacional desplegado con FastAPI y Gemini, compatible con Open Responses API. Integrado con la plataforma hackathon-2024.com de Banorte. Resolvió en tiempo real el schema de integración a través de logging y diagnóstico iterativo.",
+    "tech": ["FastAPI", "Gemini", "Python", "Render", "Docker", "Open Responses API"]
+  }
+],
   "banorte_fit": {
     "value_prop": "Business Translator: traduzco criterio técnico de IA en adopción real de negocio bancario",
     "governance": "15 años de data governance en entornos regulados — alineado con requisitos CNBV",
