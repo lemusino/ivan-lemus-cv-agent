@@ -11,7 +11,7 @@ class ResponseRequest(BaseModel):
     previous_response_id: Optional[str] = None
 
 class ContentBlock(BaseModel):
-    type: str = "output_text"
+    type: str = "text"
     text: str
 
 class OutputMessage(BaseModel):
