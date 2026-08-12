@@ -38,7 +38,7 @@ Render + Docker
 Empecé con Railway. Pasé más de una hora peleando con su builder automático que fallaba por problemas de red en sus servidores. Migré a Render. Detectó el Dockerfile automáticamente, el deploy tardó menos de dos minutos, y la URL pública funcionó en el primer intento. A veces la decisión correcta es saber cuándo cambiar de herramienta en lugar de seguir peleando con la que no funciona.
 
 GitHub
-Control de versiones desde el primer commit. Cada intento fallido quedó documentado en el historial. El repo es público porque el reto lo requiere, pero también porque no tengo nada que esconder en el proceso.
+Control de versiones desde el primer commit. Cada intento fallido quedó documentado en el historial. El repo es público porque el reto lo requiere, pero también porque puede servir para otros que han pasado obstaculos en el proceso.
 
 
 
