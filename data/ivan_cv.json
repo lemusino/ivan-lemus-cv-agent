@@ -1,0 +1,107 @@
+{
+  "name": "Iván Jesús Lemus Aguilar",
+  "title": "Senior Data & Analytics · Product Manager · Business Translator en IA",
+  "pitch": "15 años convirtiendo datos en decisiones de negocio. El puente entre lo que la IA puede hacer y lo que el banco necesita adoptar.",
+  "contact": {
+    "linkedin": "linkedin.com/in/ivan-jesus-lemus-aguilar",
+    "location": "Ciudad de México"
+  },
+  "education": [
+    {
+      "degree": "MBA",
+      "school": "Universidad Politécnica de Madrid",
+      "year": "2015"
+    },
+    {
+      "degree": "Ingeniería en Sistemas Computacionales",
+      "school": "Tecnológico de Monterrey (ITESM)",
+      "year": "2005"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Arena Analytics",
+      "role": "Senior Product Manager",
+      "period": "Hasta octubre 2025",
+      "highlights": [
+        "Gestión del ciclo completo de producto de datos y ML",
+        "Puente entre ingenieros de ML y usuarios de negocio en recursos humanos",
+        "Implementación de LookML y pipelines de datos",
+        "Coordinación multi-país en LatAm"
+      ]
+    },
+    {
+      "company": "Axity",
+      "role": "Consultor Senior de Datos y Analytics",
+      "period": "Anterior a Arena Analytics",
+      "clients": ["Coca-Cola FEMSA", "Walmart", "Danone"],
+      "highlights": [
+        "Implementación de soluciones de Business Intelligence",
+        "Gobierno de datos en entornos enterprise",
+        "Coordinación de equipos técnicos multidisciplinarios"
+      ]
+    },
+    {
+      "company": "Saia Consulting",
+      "role": "Consultor Senior",
+      "clients": ["Daimler Financial Services", "Nissan Renault Financial Services"],
+      "highlights": [
+        "Proyectos de analytics en sector financiero",
+        "Diseño de arquitecturas de datos"
+      ]
+    }
+  ],
+  "skills": {
+    "senior": [
+      "Data Governance",
+      "Product Management",
+      "Business Intelligence",
+      "LookML",
+      "Azure DevOps",
+      "Confluence",
+      "Gestión de personas"
+    ],
+    "functional": [
+      "SQL",
+      "Python básico",
+      "LangChain",
+      "RAG",
+      "ChromaDB"
+    ],
+    "exploratory": [
+      "GCP",
+      "Gemini API",
+      "FastAPI",
+      "Agentes de IA"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Prototipo RAG con Gemini",
+      "description": "RAG sobre documentos de política de crédito usando Gemini, ChromaDB y LangChain en Google Colab",
+      "tech": ["Gemini", "ChromaDB", "LangChain", "Python"]
+    },
+    {
+      "name": "Agente de CV - Reto Banorte",
+      "description": "Agente conversacional desplegado con FastAPI y Gemini, compatible con Open Responses API",
+      "tech": ["FastAPI", "Gemini", "Python", "Railway"]
+    }
+  ],
+  "banorte_fit": {
+    "value_prop": "Business Translator: traduzco criterio técnico de IA en adopción real de negocio bancario",
+    "governance": "15 años de data governance en entornos regulados — alineado con requisitos CNBV",
+    "why_banorte": "Quiero ser parte del equipo que convierte a Banorte en el banco donde los agentes de IA generan confianza real en clientes y colaboradores"
+  },
+  "personality": {
+    "strengths": [
+      "Comunicación clara entre equipos técnicos y de negocio",
+      "Criterio para priorizar impacto sobre complejidad técnica",
+      "Experiencia en entornos regulados y multicultural"
+    ],
+    "honest_about": [
+      "Python a nivel básico/funcional, no senior de ingeniería",
+      "GCP en nivel exploratorio, no certificado",
+      "En proceso de construcción de habilidades de AI engineering"
+    ]
+  }
+}
