@@ -5,7 +5,7 @@ Reto IA Banorte · Inteligencia Artificial e Innovación
 
 Cuando recibí la invitación al reto, supe que iba a ser un desafío real interesante. Quizá no soy el candidato más experto técnicamente, pero le pongo empeño a las cosas — y este agente es prueba de eso.
 
-Este agente esproducto de tres días de intentos, errores, logs y ajustes hasta que la plataforma de Banorte finalmente respondió como debía.
+Este agente es producto de tres días de intentos, errores, logs y ajustes hasta que la plataforma de Banorte finalmente respondió como debía.
 
 El reto me costó trabajo. Y eso es exactamente lo que quería compartir.
 
@@ -92,8 +92,7 @@ curl -X POST https://ivan-lemus-cv-agent.onrender.com/v1/responses \
 
 Construir un agente que funciona localmente es relativamente fácil. Integrarlo con una plataforma externa cuyo contrato de API no está completamente documentado es donde está el trabajo real. El debugging de esa integración — leer los headers, parsear el raw body, comparar lo que llegaba con lo que esperaba — fue la parte más valiosa del ejercicio.
 
-Eso es lo que conjeturo la gente que esta en producción bancaria, como AI engineer o Specialist sr on AI, or Innovation specialist enfrentan: no solo construir el modelo, sino hacer que el modelo funcione de forma confiable en un ecosistema de sistemas que no controlas completamente.
+Eso es lo que conjeturo la gente que esta en producción bancaria, como AI engineer o Specialist Sr on AI, or Innovation Specialist enfrentan: no solo construir el modelo, sino hacer que el modelo funcione de forma confiable en un ecosistema de sistemas que no controlas completamente.
 
 Iván Jesús Lemus Aguilar
-ivan.jesus.lemus@gmail.com
 linkedin.com/in/ivan-jesus-lemus-aguilar
