@@ -5,7 +5,7 @@ Reto IA Banorte · Inteligencia Artificial e Innovación
 
 Cuando recibí la invitación al reto, supe que iba a ser un desafío real interesante. Quizá no soy el candidato más experto técnicamente, pero le pongo empeño a las cosas — y este agente es prueba de eso.
 
-Este agente no nació de un tutorial. Nació de tres días de intentos, errores, logs y ajustes hasta que la plataforma de Banorte finalmente respondió como debía.
+Este agente esproducto de tres días de intentos, errores, logs y ajustes hasta que la plataforma de Banorte finalmente respondió como debía.
 
 El reto me costó trabajo. Y eso es exactamente lo que quería demostrar.
 
