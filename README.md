@@ -88,7 +88,7 @@ curl -X POST https://ivan-lemus-cv-agent.onrender.com/v1/responses \
 
 
 
-  Lo que aprendí que no estaba en ningún curso
+  Lo que aprendí que no estaba en ningún curso instrucción o lineamiento del reto:
 
 Construir un agente que funciona localmente es relativamente fácil. Integrarlo con una plataforma externa cuyo contrato de API no está completamente documentado es donde está el trabajo real. El debugging de esa integración — leer los headers, parsear el raw body, comparar lo que llegaba con lo que esperaba — fue la parte más valiosa del ejercicio.
 
