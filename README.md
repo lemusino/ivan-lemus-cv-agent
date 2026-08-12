@@ -7,7 +7,7 @@ Cuando recibí la invitación al reto, supe que iba a ser un desafío real inter
 
 Este agente esproducto de tres días de intentos, errores, logs y ajustes hasta que la plataforma de Banorte finalmente respondió como debía.
 
-El reto me costó trabajo. Y eso es exactamente lo que quería demostrar.
+El reto me costó trabajo. Y eso es exactamente lo que quería compartir.
 
 El problema que nadie documenta:
 
